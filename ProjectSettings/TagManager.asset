@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -38,9 +39,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: Fondo
     uniqueID: 882167055
     locked: 0
@@ -49,4 +47,7 @@ TagManager:
     locked: 0
   - name: Ecenario
     uniqueID: 2234715819
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
